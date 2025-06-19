@@ -2,7 +2,7 @@
 
 # Import the theme
 theme: jekyll-theme-chirpy
-backgroud_animation: true
+backgroud_animation: true 
 mouse_click_effect: true
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
