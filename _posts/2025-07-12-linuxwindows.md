@@ -6,11 +6,8 @@ categories: [Pentesting]
 tags: [cybersec]
 ---
 
-Aquí tienes la tabla corregida, traducida y explicada al estilo de una guía técnica en español para usuarios que migran de Windows a Unix/Linux:
 
----
-
-### Comparativa de Comandos: Windows vs Unix/Linux
+#  Comparativa de Comandos: Windows vs Unix/Linux
 
 | Comando en Windows             | Comando en Unix/Linux      | Notas                                                                                                                                   |
 | ------------------------------ | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
