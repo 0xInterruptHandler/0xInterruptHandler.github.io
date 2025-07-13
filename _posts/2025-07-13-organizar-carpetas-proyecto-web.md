@@ -1,6 +1,6 @@
 ---
 title: formas de organizar carpetas proyecto web
-date: '2025-07-13 11:01:05'
+date: '2025-07-13 10:01:05'
 comments: true
 categories: [Programming, Web Development, Software Engineering]
 tags: [arquitectura, desarrollo-web, web, web-development, frontend, desarrollo]
