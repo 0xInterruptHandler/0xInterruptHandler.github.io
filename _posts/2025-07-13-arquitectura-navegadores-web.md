@@ -1,15 +1,12 @@
 ---
-title: arquitectura-navegadores-web
+title: Como funcionan los web browsers?
 date: '2025-07-13 10:06:32'
 comments: true
 categories: [Programming, Web Development, Software Engineering]
 tags: [desarrollo, web-development, desarrollo-web]
 ---
 
-
-Claro, aquí tienes el texto reescrito en español con un estilo formal, técnico y claro, eliminando los emojis y organizando el contenido para su lectura en un entorno académico o profesional:
-
----
+ 
 
 # ¿Cómo Funcionan los Navegadores Web?
 
