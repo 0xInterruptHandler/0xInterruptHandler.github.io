@@ -3,7 +3,7 @@ title: crudlaravelajax
 date: '2025-07-12 22:29:09'
 comments: true
 categories: [Programming]
-tags: [web-development]
+tags: [web-development,desarrollo]
 ---
 
  
