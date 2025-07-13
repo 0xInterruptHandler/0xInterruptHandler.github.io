@@ -1,6 +1,6 @@
 ---
-title: patrones-arquitectura-web
-date: '2025-07-13 10:59:32'
+title: patrones de arquitectura web
+date: '2025-07-13 10:59'
 comments: true
 categories: [Programming,Web Development,Software Engineering]
 tags: [arquitectura,desarrollo-web, web,web-development,frontend, desarrollo]

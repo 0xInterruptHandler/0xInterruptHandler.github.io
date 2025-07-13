@@ -1,12 +1,12 @@
 ---
-title: organizar-carpetas-proyecto-web
+title: formas de organizar carpetas proyecto web
 date: '2025-07-13 11:01:05'
 comments: true
 categories: [Programming, Web Development, Software Engineering]
 tags: [arquitectura, desarrollo-web, web, web-development, frontend, desarrollo]
 ---
 
- Organización de carpetas de un proyecto
+# Organización de carpetas de un proyecto
 
 - **Por tipo de archivo**: Agrupa archivos por su tipo, como componentes, servicios, estilos, etc.  
 - **Basado en funcionalidades (Feature-based)**: Organiza por módulos o características específicas de la app.  
