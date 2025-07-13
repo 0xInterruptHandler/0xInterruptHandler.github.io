@@ -1,5 +1,5 @@
 ---
-title: Comparativa de Comandos: Windows vs Unix/Linux
+title: Comparativa de Comandos Windows vs Unix/Linux
 date: '2025-07-13 00:24:16'
 comments: true
 categories: [Pentesting]
