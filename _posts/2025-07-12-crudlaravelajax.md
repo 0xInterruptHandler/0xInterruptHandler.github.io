@@ -7,7 +7,7 @@ tags: [web-development,desarrollo]
 ---
 
  
----
+# Laravel CRUD utilizando AJAX y Blade
 
 ##  Step 1: Instalar Laravel 12
 
