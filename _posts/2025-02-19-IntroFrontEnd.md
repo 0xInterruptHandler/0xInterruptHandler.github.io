@@ -4,6 +4,9 @@ date: '2025-02-18 11:17:32'
 comments: true
 categories: [Web Development]
 tags: [frontend, web-development, html, css, javascript]
+image:
+  path: /assets/img/posts/web-browsers/banner-post-web-browser.png
+
 ---
 
 # How does the internet work?
