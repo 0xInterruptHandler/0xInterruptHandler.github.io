@@ -4,6 +4,9 @@ date: '2025-07-13 10:06:32'
 comments: true
 categories: [Programming, Web Development, Software Engineering]
 tags: [desarrollo, web-development, desarrollo-web]
+image:
+  path: /assets/img/posts/web-browsers/banner-post-web-browser.png
+
 ---
 
  
