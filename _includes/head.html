@@ -6,7 +6,9 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="google-site-verification" content="h6pxxSDYxvj8z83E1AEMMQWjna9UvGR5OB_QTge1tIA" />
   <meta name="google-adsense-account" content="ca-pub-1713533695722813">
-  
+  <!-- Favicon personalizado -->
+<link rel="icon" href="{{ '/assets/img/apple-touch-icon.png.png' | relative_url }}" type="image/png">
+
   <meta
     name="viewport"
     content="width=device-width, user-scalable=no initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
@@ -60,7 +62,6 @@
     {{ site.title | flatify }}
   </title>
 
-  {% include_cached favicons.html %}
 
   <!-- Resource Hints -->
   {% unless site.assets.self_host.enabled %}
@@ -93,7 +94,7 @@
   <link rel="stylesheet" href="{{ css | relative_url }}">
   {% endfor %}
   {% endif %}
-  
+
   <!-- Fira Code -->
   <link rel="stylesheet" href="{{ site.data.origin[type].firacode.css | relative_url }}">
 
