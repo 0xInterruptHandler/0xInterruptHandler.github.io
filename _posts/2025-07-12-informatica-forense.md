@@ -4,6 +4,9 @@ date: '2025-07-12 23:32'
 comments: true
 categories: [Misc]
 tags: [cybersec]
+image:
+  path: /assets/img/posts/web-browsers/informatica-forense-banner.png
+
 ---
 
  
