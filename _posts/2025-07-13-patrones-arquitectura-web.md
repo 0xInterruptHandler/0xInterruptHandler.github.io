@@ -4,6 +4,9 @@ date: '2025-07-13 10:59'
 comments: true
 categories: [Programming,Web Development,Software Engineering]
 tags: [arquitectura,desarrollo-web, web,web-development,frontend, desarrollo]
+image:
+  path: /assets/img/posts/arquitectura-web-blog/patrones-de-arquitectura-web-banner.png 
+
 ---
 
  
