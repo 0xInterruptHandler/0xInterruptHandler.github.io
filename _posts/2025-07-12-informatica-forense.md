@@ -5,7 +5,7 @@ comments: true
 categories: [Misc]
 tags: [cybersec]
 image:
-  path: /assets/img/posts/web-browsers/informatica-forense-banner.png
+  path: /assets/img/posts/informatica-forense-blog/informatica-forense-banner.png
 
 ---
 
