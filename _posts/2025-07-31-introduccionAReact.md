@@ -34,7 +34,6 @@ Este video explica las diferencias clave entre HTML y React en atributos:
  
 # React JS – Conceptos Básicos
 
-**Duración total:** 5089 segundos (01:24:49)
 
 ---
 
